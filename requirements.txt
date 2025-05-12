@@ -1,0 +1,8 @@
+langchain #orchestration framework
+langchain-community #orchestration framework
+pypdf #Handles pdf document data
+faiss-cpu # vectorstore, alternatives chroma, ...
+sentence-transformers # embedding model 
+# openllama 
+streamlit # Web UI 
+ipykernel
